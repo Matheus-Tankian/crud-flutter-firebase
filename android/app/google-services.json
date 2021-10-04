@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "344319232225",
+    "project_id": "app-imfa",
+    "storage_bucket": "app-imfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344319232225:android:15c28e988acf454b7a8fa0",
+        "android_client_info": {
+          "package_name": "com.example.appcrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344319232225-710sq3jen7kf2n15ajfd254cmgm8epkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM1U09fSnGUXp2XfXJ8fFChZiQ_ZJcnKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344319232225-710sq3jen7kf2n15ajfd254cmgm8epkv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
